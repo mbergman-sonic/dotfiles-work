@@ -38,7 +38,8 @@ eval "$(starship init zsh)"
 # ---- Aliases (Work-safe) ----
 alias ls="eza --icons"
 alias ll="eza -la --icons"
-alias cat="bat"
+alias cat="batcat"
+alias bat="batcat"
 alias grep="rg"
 
 alias gs="git status"
