@@ -1,3 +1,5 @@
 [user]
 	email = michael.bergman@sonicautomotive.com
 	name = Mike Bergman
+[core]
+	excludefiles = /home/mbergman/.gitignore_global
