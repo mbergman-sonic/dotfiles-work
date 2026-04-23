@@ -3,3 +3,6 @@
 	name = Mike Bergman
 [core]
 	excludefiles = /home/mbergman/.gitignore_global
+
+[pull]
+	rebase = true
